@@ -64,3 +64,18 @@ C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\
 C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\DAL.pdb
 C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
 C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DAL\obj\Debug\net6.0\ref\DAL.dll

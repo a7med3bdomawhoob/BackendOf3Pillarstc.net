@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dg+hhVxjeYNVkyHTHKtfekx112Y6pR3Y6Vf3sr2tn2+Ahweq+qIkzqf2+5Ftsd/oaImy2zUU1dJEiGie1/v6Jw==",
+  "dgSpecHash": "K+V305+ZqF4ltvtoXOlH5O6/S/Pq+grkDT/Lfbww2RFoRJHBBGV8IWzNQ6aiHGWV09XokSR1vCsgJlCrLes8ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namaa\\.nuget\\packages\\entityframework\\6.0.0\\entityframework.6.0.0.nupkg.sha512",
     "C:\\Users\\namaa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

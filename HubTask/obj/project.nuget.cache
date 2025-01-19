@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UKSwg+Pdy0sFXOknI/9BXdEHoLbkCvf5tWRBw0EhiNoV15ny+lOrtzwTQbcsLyDfPGQ3kwOUQafx1BtmEpmNwA==",
+  "dgSpecHash": "YRVmgShlJbGmsYoq6obAcbDp4diK5/bCK2k/UrSeTJlysQdTHAdXPWIXgJcJ8i8QXqqmz6CxZxdca/0ka9xqLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\HubTask.csproj",
+  "projectFilePath": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\HubTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namaa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\namaa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

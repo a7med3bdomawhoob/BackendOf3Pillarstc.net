@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HEoLnRX0OCEVGSi5AObCl9Lrjhmxgefr44X+NWaXdDA=",
+  "Hash": "nm+6rcqf2KhRwfLQnyGIGxFBJGIE6xeumgYKHbAYFR8=",
   "Source": "HubTask",
   "BasePath": "_content/HubTask",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HubTask\\wwwroot",
       "Source": "HubTask",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\4568dad3-a449-4385-b62e-86057b5e58093Pillarstc_Task_React (1).pdf",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\4568dad3-a449-4385-b62e-86057b5e58093Pillarstc_Task_React (1).pdf",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/4568dad3-a449-4385-b62e-86057b5e58093Pillarstc_Task_React (1).pdf",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\4568dad3-a449-4385-b62e-86057b5e58093Pillarstc_Task_React (1).pdf"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\4ae6ebdf-8567-4c18-b203-de98dda9b8a3my_photo.jpeg",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\4ae6ebdf-8567-4c18-b203-de98dda9b8a3my_photo.jpeg",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/4ae6ebdf-8567-4c18-b203-de98dda9b8a3my_photo.jpeg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\4ae6ebdf-8567-4c18-b203-de98dda9b8a3my_photo.jpeg"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\5971efcc-0015-4e3a-adf5-bea4a8dae13a3Pillarstc_Task_React (2).pdf",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\5971efcc-0015-4e3a-adf5-bea4a8dae13a3Pillarstc_Task_React (2).pdf",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/5971efcc-0015-4e3a-adf5-bea4a8dae13a3Pillarstc_Task_React (2).pdf",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\5971efcc-0015-4e3a-adf5-bea4a8dae13a3Pillarstc_Task_React (2).pdf"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\893486fc-f5af-4161-a62b-4485a31f5d27315976047_660247475548539_2150522387140516848_n.jpg",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\893486fc-f5af-4161-a62b-4485a31f5d27315976047_660247475548539_2150522387140516848_n.jpg",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/893486fc-f5af-4161-a62b-4485a31f5d27315976047_660247475548539_2150522387140516848_n.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\893486fc-f5af-4161-a62b-4485a31f5d27315976047_660247475548539_2150522387140516848_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\9770b094-a29c-4901-98dc-27f2db0a564e315976047_660247475548539_2150522387140516848_n.jpg",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\9770b094-a29c-4901-98dc-27f2db0a564e315976047_660247475548539_2150522387140516848_n.jpg",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/9770b094-a29c-4901-98dc-27f2db0a564e315976047_660247475548539_2150522387140516848_n.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\9770b094-a29c-4901-98dc-27f2db0a564e315976047_660247475548539_2150522387140516848_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\9bcd9bcf-85b1-4873-839a-fde52bca2f813Pillarstc_Task_React (1).pdf",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\9bcd9bcf-85b1-4873-839a-fde52bca2f813Pillarstc_Task_React (1).pdf",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/9bcd9bcf-85b1-4873-839a-fde52bca2f813Pillarstc_Task_React (1).pdf",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\9bcd9bcf-85b1-4873-839a-fde52bca2f813Pillarstc_Task_React (1).pdf"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\a29c9ac7-44f6-46bc-ae0e-dfa3fdad21ed3Pillarstc_Task_React (2).pdf",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\a29c9ac7-44f6-46bc-ae0e-dfa3fdad21ed3Pillarstc_Task_React (2).pdf",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/a29c9ac7-44f6-46bc-ae0e-dfa3fdad21ed3Pillarstc_Task_React (2).pdf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\a29c9ac7-44f6-46bc-ae0e-dfa3fdad21ed3Pillarstc_Task_React (2).pdf"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\c413bab1-a045-44fc-8029-660bd5fc1738gcapi.dll",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\c413bab1-a045-44fc-8029-660bd5fc1738gcapi.dll",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/c413bab1-a045-44fc-8029-660bd5fc1738gcapi.dll",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\c413bab1-a045-44fc-8029-660bd5fc1738gcapi.dll"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\d515590e-c40f-4064-a5cd-9c63d522fe81315976047_660247475548539_2150522387140516848_n.jpg",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\d515590e-c40f-4064-a5cd-9c63d522fe81315976047_660247475548539_2150522387140516848_n.jpg",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/d515590e-c40f-4064-a5cd-9c63d522fe81315976047_660247475548539_2150522387140516848_n.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\d515590e-c40f-4064-a5cd-9c63d522fe81315976047_660247475548539_2150522387140516848_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\dfba1c01-4b13-4978-9b02-7a42b56a76d0316178608_841415553676537_8029563300093679702_n.jpg",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\dfba1c01-4b13-4978-9b02-7a42b56a76d0316178608_841415553676537_8029563300093679702_n.jpg",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/dfba1c01-4b13-4978-9b02-7a42b56a76d0316178608_841415553676537_8029563300093679702_n.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\dfba1c01-4b13-4978-9b02-7a42b56a76d0316178608_841415553676537_8029563300093679702_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\e17a36ec-0232-4232-92a8-2e0b0d00a049315976047_660247475548539_2150522387140516848_n.jpg",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\e17a36ec-0232-4232-92a8-2e0b0d00a049315976047_660247475548539_2150522387140516848_n.jpg",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/e17a36ec-0232-4232-92a8-2e0b0d00a049315976047_660247475548539_2150522387140516848_n.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\e17a36ec-0232-4232-92a8-2e0b0d00a049315976047_660247475548539_2150522387140516848_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\e6f2a9b1-9f36-48c3-9d8a-36a8820706a03Pillarstc_Task_React.pdf",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\e6f2a9b1-9f36-48c3-9d8a-36a8820706a03Pillarstc_Task_React.pdf",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/e6f2a9b1-9f36-48c3-9d8a-36a8820706a03Pillarstc_Task_React.pdf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\e6f2a9b1-9f36-48c3-9d8a-36a8820706a03Pillarstc_Task_React.pdf"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\e87667bd-0af4-4d2f-9667-d95bfee22d9d3Pillarstc_Task_React (1).pdf",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\e87667bd-0af4-4d2f-9667-d95bfee22d9d3Pillarstc_Task_React (1).pdf",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/e87667bd-0af4-4d2f-9667-d95bfee22d9d3Pillarstc_Task_React (1).pdf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\e87667bd-0af4-4d2f-9667-d95bfee22d9d3Pillarstc_Task_React (1).pdf"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\ef587173-42cf-45eb-a9da-4f74e0ec6f023Pillarstc_Task_React (1).pdf",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\ef587173-42cf-45eb-a9da-4f74e0ec6f023Pillarstc_Task_React (1).pdf",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/ef587173-42cf-45eb-a9da-4f74e0ec6f023Pillarstc_Task_React (1).pdf",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Imgs\\ef587173-42cf-45eb-a9da-4f74e0ec6f023Pillarstc_Task_React (1).pdf"
     },
     {
-      "Identity": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\Files\\Imgs\\f98062c4-9e22-4773-81a6-93e7709d8d0a3Pillarstc_Task_React (1).pdf",
+      "Identity": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\Files\\Imgs\\f98062c4-9e22-4773-81a6-93e7709d8d0a3Pillarstc_Task_React (1).pdf",
       "SourceId": "HubTask",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\wwwroot\\",
       "BasePath": "_content/HubTask",
       "RelativePath": "Files/Imgs/f98062c4-9e22-4773-81a6-93e7709d8d0a3Pillarstc_Task_React (1).pdf",
       "AssetKind": "All",

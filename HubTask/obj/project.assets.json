@@ -8744,11 +8744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\HubTask.csproj",
+      "projectUniqueName": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\HubTask.csproj",
       "projectName": "HubTask",
-      "projectPath": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\HubTask.csproj",
+      "projectPath": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\HubTask.csproj",
       "packagesPath": "C:\\Users\\namaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\HubTask\\obj\\",
+      "outputPath": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\HubTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\namaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8765,8 +8765,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\DLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\DLL\\BLL.csproj"
+            "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\DLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\DLL\\BLL.csproj"
             }
           }
         }

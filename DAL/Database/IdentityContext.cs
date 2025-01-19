@@ -6,7 +6,6 @@ namespace DAL.Database
   public class IdentityContext : IdentityDbContext<AppUser>
 {
         //Add-Migration InitialIdentity -c IdentityDbContext -o Identity/Migrations
-        //Update-Database -context IdentityDbContext
         //Update-Database -Context IdentityContext
         public IdentityContext(DbContextOptions<IdentityContext> options) : base(options)
         {

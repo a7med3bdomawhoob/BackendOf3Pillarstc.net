@@ -58,3 +58,19 @@ C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DLL\obj\Debug\net6.0\
 C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DLL\obj\Debug\net6.0\refint\BLL.dll
 C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DLL\obj\Debug\net6.0\BLL.pdb
 C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\bin\Debug\net6.0\BLL.dll
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\bin\Debug\net6.0\DAL.dll
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\BLL.sourcelink.json
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\BLL.csproj.Up2Date
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\BLL.dll
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\namaa\Desktop\Pill\BackendOf3Pillarstc.net\DLL\obj\Debug\net6.0\ref\BLL.dll

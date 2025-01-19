@@ -3,10 +3,10 @@ namespace BLL.Services
 {
     public class UnitOfWork:IUnitOfWork
     {
-        public IBookRepository bookRepository { get; set; }
+        public IBookRepository _bookRepository { get; set; }
         public UnitOfWork(IBookRepository bookrepository)
         {
-            bookRepository = bookRepository;
+            _bookRepository = bookrepository;
         }
     }
 }

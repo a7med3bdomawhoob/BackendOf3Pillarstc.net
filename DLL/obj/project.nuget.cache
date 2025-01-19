@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GDsCwkfiWVtT7MKOB8+krgbotA2iycE1c9fRdcGKjZj9d4kEncNgTNgIs7zNzBvSdpLu+OLlP7UrGk9yAOfrDg==",
+  "dgSpecHash": "qARAWRKgzJ8yVqTdgv3qWeJ0rDKV6i3bGXcQacgtClwCnE4HWnZ2Uxmo/+76L3Xq/TtnJSEO7zqm6d778YPBxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\namaa\\Desktop\\ahmed abdo_addressbook\\Back\\HubTask\\DLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\namaa\\Desktop\\Pill\\BackendOf3Pillarstc.net\\DLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namaa\\.nuget\\packages\\entityframework\\6.0.0\\entityframework.6.0.0.nupkg.sha512",
     "C:\\Users\\namaa\\.nuget\\packages\\microsoft.aspnet.identity.core\\1.0.0\\microsoft.aspnet.identity.core.1.0.0.nupkg.sha512",

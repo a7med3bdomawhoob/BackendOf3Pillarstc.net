@@ -2,7 +2,7 @@
 {
     public interface IUnitOfWork
     {
-        public IBookRepository bookRepository { get; set; }
+        public IBookRepository _bookRepository { get; set; }
 
     }
 }
