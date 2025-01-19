@@ -1,0 +1,66 @@
+H:\C#programs\HubCompanyTask\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+H:\C#programs\HubCompanyTask\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#programs\HubCompanyTask\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+H:\C#programs\HubCompanyTask\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+H:\C#programs\HubCompanyTask\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+H:\C#programs\HubCompanyTask\DAL\bin\Debug\net6.0\DAL.deps.json
+H:\C#programs\HubCompanyTask\DAL\bin\Debug\net6.0\DAL.dll
+H:\C#programs\HubCompanyTask\DAL\bin\Debug\net6.0\DAL.pdb
+H:\C#programs\HubCompanyTask\DAL\obj\Debug\net6.0\DAL.dll
+H:\C#programs\HubCompanyTask\DAL\obj\Debug\net6.0\refint\DAL.dll
+H:\C#programs\HubCompanyTask\DAL\obj\Debug\net6.0\DAL.pdb
+H:\C#programs\HubCompanyTask\DAL\obj\Debug\net6.0\ref\DAL.dll
+H:\C#programs\HubTask\DAL\bin\Debug\net6.0\DAL.deps.json
+H:\C#programs\HubTask\DAL\bin\Debug\net6.0\DAL.dll
+H:\C#programs\HubTask\DAL\bin\Debug\net6.0\DAL.pdb
+H:\C#programs\HubTask\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+H:\C#programs\HubTask\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#programs\HubTask\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+H:\C#programs\HubTask\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+H:\C#programs\HubTask\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+H:\C#programs\HubTask\DAL\obj\Debug\net6.0\DAL.dll
+H:\C#programs\HubTask\DAL\obj\Debug\net6.0\refint\DAL.dll
+H:\C#programs\HubTask\DAL\obj\Debug\net6.0\DAL.pdb
+H:\C#programs\HubTask\DAL\obj\Debug\net6.0\ref\DAL.dll
+F:\3Pillarstc_Task\Back\HubTask\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\3Pillarstc_Task\Back\HubTask\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\3Pillarstc_Task\Back\HubTask\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\3Pillarstc_Task\Back\HubTask\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\3Pillarstc_Task\Back\HubTask\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\3Pillarstc_Task\Back\HubTask\DAL\obj\Debug\net6.0\DAL.dll
+F:\3Pillarstc_Task\Back\HubTask\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\3Pillarstc_Task\Back\HubTask\DAL\obj\Debug\net6.0\DAL.pdb
+F:\3Pillarstc_Task\Back\HubTask\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\3Pillarstc_Task\Back\HubTask\DAL\bin\Debug\net6.0\DAL.dll
+F:\3Pillarstc_Task\Back\HubTask\DAL\bin\Debug\net6.0\DAL.pdb
+F:\3Pillarstc_Task\Back\HubTask\DAL\obj\Debug\net6.0\ref\DAL.dll
+F:\3Pillarstc_Task\Back\HubTask\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\3Pillarstc_Task\Back\HubTask\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\namaa\Desktop\ahmed abdo\Back\HubTask\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\namaa\Desktop\ahmed abdo_addressbook\Back\HubTask\DAL\obj\Debug\net6.0\ref\DAL.dll
